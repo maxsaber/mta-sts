@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
+mx: maxsaber-com.c-v1.mx.microsoft
 mx: maxsaber-com.mail.protection.outlook.com
 mx: mail.protonmail.ch
 mx: mailsec.protonmail.ch
